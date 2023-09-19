@@ -18,3 +18,4 @@ int main(){
 #123
 #merge squash 1
 #merge squash 2
+#merge --no-ff
