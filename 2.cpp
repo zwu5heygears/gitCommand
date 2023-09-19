@@ -19,3 +19,4 @@ int main(){
 #merge squash 1
 #merge squash 2
 #merge --no-ff
+#merge
