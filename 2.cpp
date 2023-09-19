@@ -16,3 +16,5 @@ int main(){
 #bdfsdfassdfsfsdfsdfsfds
 #456
 #123
+#merge squash 1
+#merge squash 2
