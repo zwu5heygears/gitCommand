@@ -21,3 +21,5 @@ int main(){
 #merge --no-ff
 #merge
 #merge --no-ff
+#cherry pick 1
+#cherry pick 2
